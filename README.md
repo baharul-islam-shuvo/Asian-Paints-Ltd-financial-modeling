@@ -9,7 +9,7 @@ A complete Excel-based **3-statement financial model** of **Asian Paints Ltd**, 
 **Status:** 🟡 In Progress  
 **Author:** Baharul Islam Shuvo 
 **Mentor & Attribution:** Parth Varma – *The Valuation School (YouTube)*  
-**Contact:** [LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin-url](https://www.linkedin.com/in/md-baharul-islam-shuvo-780484369/))
+**Contact:** [LinkedIn Profile](https://www.linkedin.com/in/md-baharul-islam-shuvo-780484369/)
 
 ---
 
@@ -35,7 +35,7 @@ Key components:
   - Yahoo Finance
   - Nifty 50 index data
   - Investing.com
-* **Timeframe:** Last 10 years of financials (historical) with 3–5 years forward projections
+* **Timeframe:** Last 5 years of financials (historical) with 3–5 years forward projections
 
 ---
 
@@ -44,46 +44,4 @@ Key components:
 | 🔍 Component             | Description                                                                 |
 |-------------------------|-----------------------------------------------------------------------------|
 | 3-Statement Model       | Integrated **Income Statement**, **Balance Sheet**, and **Cash Flow Statement** |
-| Revenue Forecasting     | Top-down and bottom-up projections based on market growth and company trends |
-| Ratio Analysis          | Liquidity, profitability, efficiency & solvency metrics with peer benchmarking |
-| DCF Valuation           | Intrinsic valuation using projected Free Cash Flows and WACC assumptions    |
-| Scenario Testing        | Bull, Base & Bear case modeling to assess risk-return outlook               |
-| Clean Excel Structure   | Modular sections, linked assumptions, dynamic formulas, and formatting      |
-
----
-
-## 🛠️ Tools & Techniques
-
-| Tool           | Use Case                                             |
-|----------------|------------------------------------------------------|
-| **Microsoft Excel** | Core modeling and analysis framework               |
-| **Power Query** *(upcoming)* | Planned automation of raw data import and cleanup |
-| **Charts & Visuals** *(coming soon)* | KPI dashboards, trend graphs, waterfall charts        |
-
----
-
-## 📈 Forecast & Valuation Snapshots
-
-> *(This section will include sample outputs like the projected Income Statement, FCF chart, and valuation summary when final visualizations are added.)*
-
----
-
-## 🚀 How to Use
-
-1. **Open** the main Excel file: `FinancialModel_AsianPaints.xlsx`
-2. Navigate to the `Assumptions` tab to explore or edit key business drivers.
-3. Explore the `3-Statements` tabs for integrated outputs.
-4. Review the `Valuation` tab for intrinsic value and sensitivity outputs.
-5. Check the upcoming `Dashboard` tab (in development) for interactive summaries.
-
----
-
-## 📁 Repository Layout
-
-```bash
-.
-├── FinancialModel_AsianPaints.xlsx   # Main working file
-├── images/
-│   └── overview.png                  # Dashboard or report preview (optional)
-├── README.md                         # Project documentation
-└── LICENSE                           # Open-source license (optional)
+| Revenue Forecasting     | Top-down and bottom-up projections based on market
