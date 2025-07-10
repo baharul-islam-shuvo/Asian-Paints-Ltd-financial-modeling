@@ -4,8 +4,10 @@ A complete Excel-based **3-statement financial model** of **Asian Paints Ltd**, 
 
 ![Model Preview](images/overview.png) <!-- Add your image here when ready -->
 
+---
+
 **Status:** 🟡 In Progress  
-**Author:** Baharul Islam Shuvo
+**Author:** Baharul Islam Shuvo 
 **Mentor & Attribution:** Parth Varma – *The Valuation School (YouTube)*  
 **Contact:** [LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin-url](https://www.linkedin.com/in/md-baharul-islam-shuvo-780484369/))
 
